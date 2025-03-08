@@ -3,9 +3,23 @@
 html {
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
+  background-color: #FFEFEF
+}
+
+header {
+    text-align: center;
+}
+
+div.main {
+    background-color: #FFF;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%
 }
 
 h1,
 h2 {
   font-family: 'Playfair Display', serif;
 }
+
